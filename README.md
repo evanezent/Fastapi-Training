@@ -1,5 +1,5 @@
-# [Fastapi-Training](https://fastapi.tiangolo.com/)
-Learn restful API using FastAPI framework and postgresql
+# Fastapi-Training
+Learn restful API using [FastAPI](https://fastapi.tiangolo.com/) framework and postgresql
 
 ## How to run ?
 > uvicorn main:app --reload
